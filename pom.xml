@@ -114,7 +114,7 @@
                     <archive>
                         <manifest>
                             <!-- 可以设置jar包的入口类(可选)也可在运行时候动态指定 -->
-                            <mainClass>cn.hphblog.job.MyCustomHistogram</mainClass>
+                            <mainClass>cn.hphblog.job.MyFlameGraph</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
